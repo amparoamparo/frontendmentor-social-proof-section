@@ -6,7 +6,7 @@ This is a solution to the [social proof section challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -20,7 +20,7 @@ Users should be able to:
 
 - View the optimal layout for the section depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
 #### Desktop
 
