@@ -24,20 +24,20 @@ Users should be able to:
 
 #### Desktop
 
-![](screenshots/screenshot-desktop.png)
+![Desktop view screenshot](screenshots/screenshot-desktop.png)
 
 #### Desktop (hover state)
 
-![](screenshots/screenshot-desktop-hover.png)
+![Desktop view (hover state) screenshot](screenshots/screenshot-desktop-hover.png)
 
 #### Mobile
 
-![](screenshots/screenshot-mobile.png)
+![Mobile view screenshot](screenshots/screenshot-mobile.png)
 
 ### Links
 
-- [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-ovX--tnFOL)
-- [Live site](https://amparoamparo.github.io/frontendmentor-product-preview-card-component/)
+- [Solution](https://www.frontendmentor.io/solutions/)
+- [Live site](https://amparoamparo.github.io/)
 
 ## My process
 
