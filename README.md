@@ -45,7 +45,7 @@ The challenge was meant for mobile and desktop only, but I also made it responsi
 
 Some of the text might look different from the original design, since I fixed a few typos here and there.
 
-My CSS is currently a bit disorganised, will tidy it up one of these days (Narrator: 'She did not, in fact, tidy her CSS up.').
+My CSS is currently a bit disorganised, will tidy it up one of these days. (Narrator: 'She did not, in fact, tidy her CSS up.')
 
 ### Built with
 
