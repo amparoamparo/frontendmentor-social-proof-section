@@ -1,0 +1,18 @@
+// Colours
+
+$dark-magenta: hsl(300, 43%, 22%);
+$soft-pink: hsl(333, 80%, 67%);
+$dark-grey-magenta: hsl(303, 10%, 53%);
+$light-grey-magenta: hsl(300, 24%, 96%);
+$white: hsl(0, 0%, 100%);
+
+// Fonts
+
+$font-stack: 'League Spartan', sans-serif;
+
+// Backgrounds
+
+.star {
+    background-image: url("../images/icon-star.svg");
+    background-repeat: no-repeat;
+}
