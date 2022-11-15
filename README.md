@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://www.frontendmentor.io/solutions/)
+- [Solution](https://www.frontendmentor.io/solutions/social-proof-section-vGAwGGKb9H)
 - [Live site](https://amparoamparo.github.io/frontendmentor-social-proof-section/)
 
 ## My process
