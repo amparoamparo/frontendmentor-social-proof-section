@@ -1,4 +1,4 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Social proof section solution
 
 This is a solution to the [social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA).
 
@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://www.frontendmentor.io/solutions/)
+- [Solution](https://www.frontendmentor.io/solutions/social-proof-section-vGAwGGKb9H)
 - [Live site](https://amparoamparo.github.io/frontendmentor-social-proof-section/)
 
 ## My process
@@ -45,7 +45,7 @@ The challenge was meant for mobile and desktop only, but I also made it responsi
 
 Some of the text might look different from the original design, since I fixed a few typos here and there.
 
-My CSS is currently a bit disorganised, will tidy it up one of these days (Narrator: 'She did not, in fact, tidy her CSS up.').
+My CSS is currently a bit disorganised, will tidy it up one of these days. (Narrator: 'She did not, in fact, tidy her CSS up.')
 
 ### Built with
 
